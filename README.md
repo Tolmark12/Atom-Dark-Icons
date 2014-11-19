@@ -1,3 +1,3 @@
 # Replacement Icons for Atom.io
-![Atom Icon](atom.png)
+<img src="atom.png" width="45%"/>
 ![Document Icon](atom-doc.png)
