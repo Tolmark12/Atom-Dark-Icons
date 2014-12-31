@@ -1,6 +1,6 @@
 # Dark Replacement Icons for Atom.io
 <img src="atom.png" width="260px"/>
-![Document Icon](atom-doc.png)
+![Document Icon](file.png)
 
 # License
 [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/)
