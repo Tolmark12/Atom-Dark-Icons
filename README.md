@@ -8,4 +8,4 @@
 # Credits
 [Atom Text Editor](https://atom.io/)
 
-__Original Icon Designer__ - I've googled around a bit, but can't tell who designed the orignal icon, if you know who the original designer is, let me know so I can credit them here.
+__Original Icon Designers__ Original orange icon created by [@cameronmcefee](https://github.com/cameronmcefee), current production icon created by [@jeejkang](https://github.com/jeejkang)
