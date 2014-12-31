@@ -8,4 +8,6 @@
 # Credits
 [Atom Text Editor](https://atom.io/)
 
-__Original Icon Designers__ Original orange icon created by [@cameronmcefee](https://github.com/cameronmcefee), current production icon created by [@jeejkang](https://github.com/jeejkang)
+__Original Icon Designers:__
+
+Original orange icon created by [@cameronmcefee](https://github.com/cameronmcefee), current production icon created by [@jeejkang](https://github.com/jeejkang)
